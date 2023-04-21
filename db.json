@@ -28,6 +28,21 @@
         "heading": "User Analitics",
         "details": "Lorem ipsum dolor sit, amet consectetur adipisicing."
       }
+    ],
+    "links": [
+      { "id": 1, "facebook": "https://www.facebook.com/AgumentikSoftware/" },
+      { "id": 2, "instagram": "https://www.instagram.com/agumentiksoftware/" },
+      {
+        "id": 3,
+        "linkdine": "https://www.linkedin.com/company/agumentiksoftware/"
+      }
     ]
-  }
+  },
+  "auth": [
+    {
+      "id": 1,
+      "username": "admin@mdch.com",
+      "password": "mdch@123"
+    }
+  ]
 }
