@@ -1,0 +1,33 @@
+{
+  "page": {
+    "awards": 75,
+    "projects": 302,
+    "branch": 96,
+    "business": [
+      "Butefull Element fastest Website",
+      "we will make your brand worldwide famus",
+      "Butefull Element fastest Website",
+      "we will make your brand worldwide famus",
+      "Butefull Element fastest Website",
+      "we will make your brand worldwide famus"
+    ],
+    "features": [
+      {
+        "heading": "User Analitics",
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing."
+      },
+      {
+        "heading": "User Analitics",
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing."
+      },
+      {
+        "heading": "User Analitics",
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing."
+      },
+      {
+        "heading": "User Analitics",
+        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing."
+      }
+    ]
+  }
+}
