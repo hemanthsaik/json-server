@@ -1,43 +1,49 @@
 {
-  "page": {
-    "awards": 75,
-    "projects": 302,
-    "branch": 96,
-    "business": [
-      "Butefull Element fastest Website",
-      "we will make your brand worldwide famus",
-      "Butefull Element fastest Website",
-      "we will make your brand worldwide famus",
-      "Butefull Element fastest Website",
-      "we will make your brand worldwide famus"
-    ],
-    "features": [
-      {
-        "heading": "User Analitics",
-        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing."
-      },
-      {
-        "heading": "User Analitics",
-        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing."
-      },
-      {
-        "heading": "User Analitics",
-        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing."
-      },
-      {
-        "heading": "User Analitics",
-        "details": "Lorem ipsum dolor sit, amet consectetur adipisicing."
-      }
-    ],
-    "links": [
-      { "id": 1, "facebook": "https://www.facebook.com/AgumentikSoftware/" },
-      { "id": 2, "instagram": "https://www.instagram.com/agumentiksoftware/" },
-      {
-        "id": 3,
-        "linkdine": "https://www.linkedin.com/company/agumentiksoftware/"
-      }
-    ]
-  },
+  "page": [
+    {
+      "id": 1,
+      "awards": 75,
+      "projects": 302,
+      "branch": 96,
+      "business": [
+        "Butefull Element fastest Website",
+        "we will make your brand worldwide famus",
+        "Butefull Element fastest Website",
+        "we will make your brand worldwide famus",
+        "Butefull Element fastest Website",
+        "we will make your brand worldwide famus"
+      ],
+      "features": [
+        {
+          "heading": "User Analitics",
+          "details": "Lorem ipsum dolor sit, amet consectetur adipisicing."
+        },
+        {
+          "heading": "User Analitics",
+          "details": "Lorem ipsum dolor sit, amet consectetur adipisicing."
+        },
+        {
+          "heading": "User Analitics",
+          "details": "Lorem ipsum dolor sit, amet consectetur adipisicing."
+        },
+        {
+          "heading": "User Analitics",
+          "details": "Lorem ipsum dolor sit, amet consectetur adipisicing."
+        }
+      ],
+      "links": [
+        { "id": 1, "facebook": "https://www.facebook.com/AgumentikSoftware/" },
+        {
+          "id": 2,
+          "instagram": "https://www.instagram.com/agumentiksoftware/"
+        },
+        {
+          "id": 3,
+          "linkdine": "https://www.linkedin.com/company/agumentiksoftware/"
+        }
+      ]
+    }
+  ],
   "auth": [
     {
       "id": 1,
